@@ -45,7 +45,10 @@ https://github.com/jerbi2026/football_management_system/assets/116197682/d2f6f62
 
 # Boutique et Shopping Cart
 
-![15](https://github.com/jerbi2026/football_management_system/assets/116197682/5b05f5eb-2a7e-4ba4-a87f-788d525d1782)
+
+https://github.com/jerbi2026/football_management_system/assets/116197682/21c8580c-943e-4586-8643-f28dabf7192b
+
+
 
 ## cookies de cart
 ![15](https://github.com/jerbi2026/football_management_system/assets/116197682/43699a19-f451-4955-b1e8-375d8f781f3d)
