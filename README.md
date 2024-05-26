@@ -47,7 +47,8 @@ https://github.com/jerbi2026/football_management_system/assets/116197682/d2f6f62
 
 ![15](https://github.com/jerbi2026/football_management_system/assets/116197682/5b05f5eb-2a7e-4ba4-a87f-788d525d1782)
 
-https://github.com/jerbi2026/football_management_system/assets/116197682/2786ad6d-2e69-4e0e-a49d-462fb77670f3
+## cookies de cart
+![15](https://github.com/jerbi2026/football_management_system/assets/116197682/43699a19-f451-4955-b1e8-375d8f781f3d)
 
 
 # Chatroom 
@@ -65,6 +66,7 @@ Pour les calendriers
 pour les actualités de sport 
 ## OpenWidgets : 
 pour les actualités de météo
+## Sessions et cookies 
 
 
 
