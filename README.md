@@ -62,6 +62,19 @@ Nous n'avons pas travaillé avec websocket mais nous avons ajouté une minuterie
 https://github.com/jerbi2026/football_management_system/assets/116197682/2f62cad1-b373-414e-baf0-4347facba484
 
 
+# Version Mobile
+
+
+
+
+| Image 1 | Image 2 | Image 3 |
+| ------- | ------- | ------- |
+| ![mob1](https://github.com/jerbi2026/football_management_system/assets/116197682/a01ab9ee-5fc2-4b6d-b2d5-e4ec5c33ba53) | ![mob2](https://github.com/jerbi2026/football_management_system/assets/116197682/779e5c32-bbe6-46cb-80f0-566121a6f72b) | ![mob3](https://github.com/jerbi2026/football_management_system/assets/116197682/f610de4e-3bd1-409c-bee9-50d392158d73) |
+| ![mob4](https://github.com/jerbi2026/football_management_system/assets/116197682/9272dad9-9929-455f-be40-1cdee4ea2709) | ![mob5](https://github.com/jerbi2026/football_management_system/assets/116197682/c8cad82c-096c-4a15-86dc-ff093137a1b9) | ![mob6](https://github.com/jerbi2026/football_management_system/assets/116197682/a9ea52cc-aa7a-4de6-a0cf-63bcc2f61040) |
+| ![mob7](https://github.com/jerbi2026/football_management_system/assets/116197682/2aabdf2d-948c-4240-bfce-dced059dac7e) | ![mob8](https://github.com/jerbi2026/football_management_system/assets/116197682/e13aea75-6d47-44f2-8eed-44d44293229b) | ![mob9](https://github.com/jerbi2026/football_management_system/assets/116197682/52d00c1e-e812-437a-b814-5ab29dab5d9e) |
+| ![mob10](https://github.com/jerbi2026/football_management_system/assets/116197682/30606a6b-6763-4cab-b835-ac39169a8f93) |       |       |
+
+
 # Api et Bibliotheques utilisées
 ## FullCalendar : 
 Pour les calendriers
@@ -69,7 +82,10 @@ Pour les calendriers
 pour les actualités de sport 
 ## OpenWidgets : 
 pour les actualités de météo
+## Email Js :
+Pour l'envoie des emails
 ## Sessions et cookies 
+
 
 
 
