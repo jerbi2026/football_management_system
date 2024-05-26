@@ -31,7 +31,10 @@ https://github.com/jerbi2026/football_management_system/assets/116197682/eed27d6
 Il a les memes fonctionnalités que utilisateur free mais les reservations effectuées par ce type d'utilisateur sont directement validés
 
 
-https://github.com/jerbi2026/football_management_system/assets/116197682/80de3d5a-b082-42ac-b9ff-3688713c7bf0
+
+https://github.com/jerbi2026/football_management_system/assets/116197682/dac66551-4c05-4412-8d63-f3ee32439c4e
+
+
 
 # Admin Fonctionnalités
 
@@ -47,6 +50,21 @@ https://github.com/jerbi2026/football_management_system/assets/116197682/d2f6f62
 https://github.com/jerbi2026/football_management_system/assets/116197682/2786ad6d-2e69-4e0e-a49d-462fb77670f3
 
 
+# Chatroom 
+Nous n'avons pas travaillé avec websocket mais nous avons ajouté une minuterie, chaque 5 secondes il execute la requete select pour les messages 
+
+
+
+https://github.com/jerbi2026/football_management_system/assets/116197682/2f62cad1-b373-414e-baf0-4347facba484
+
+
+# Api et Bibliotheques utilisées
+## FullCalendar : 
+Pour les calendriers
+## RSS : 
+pour les actualités de sport 
+## OpenWidgets : 
+pour les actualités de météo
 
 
 
