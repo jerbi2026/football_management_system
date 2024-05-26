@@ -20,16 +20,34 @@ Le Système de Gestion de Football est une plateforme web complète conçue pour
 | ![12](https://github.com/jerbi2026/football_management_system/assets/116197682/3bc04641-5158-4b88-943e-ea1c1dd64bbc) | ![13](https://github.com/jerbi2026/football_management_system/assets/116197682/cd49d0ce-f1d4-46b8-bef7-c6b7626fb9d2) |
 | ![14](https://github.com/jerbi2026/football_management_system/assets/116197682/5efba11e-4d37-4b02-8042-760c743d4294) | |
 
-# Boutique et Shopping Cart
-
-
-https://github.com/jerbi2026/football_management_system/assets/116197682/2786ad6d-2e69-4e0e-a49d-462fb77670f3
-
-
 
 # User Free Fonctionnalités 
 
 
 https://github.com/jerbi2026/football_management_system/assets/116197682/eed27d6a-256a-4061-8b7b-41d2cda95eb0
+
+
+# User Premuim Fonctionnalités 
+Il a les memes fonctionnalités que utilisateur free mais les reservations effectuées par ce type d'utilisateur sont directement validés
+
+
+https://github.com/jerbi2026/football_management_system/assets/116197682/80de3d5a-b082-42ac-b9ff-3688713c7bf0
+
+# Admin Fonctionnalités
+
+
+https://github.com/jerbi2026/football_management_system/assets/116197682/d2f6f629-47d8-4a22-89ce-f27fa739c1f7
+
+
+
+# Boutique et Shopping Cart
+
+![15](https://github.com/jerbi2026/football_management_system/assets/116197682/5b05f5eb-2a7e-4ba4-a87f-788d525d1782)
+
+https://github.com/jerbi2026/football_management_system/assets/116197682/2786ad6d-2e69-4e0e-a49d-462fb77670f3
+
+
+
+
 
 
